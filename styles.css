@@ -1,0 +1,64 @@
+body{
+    color: white;
+    background: rgb(196, 64, 85 , 1);
+    margin: 0px;
+    font-family: "Geist Mono", monospace;
+
+}
+
+header {
+    border-bottom: solid 1px lightpink;
+    padding: 20px;
+    font-size: 36px;
+}
+
+img{
+    height: 250px;
+    margin: 10px;
+}
+
+p{
+    font-size: 21px;
+}
+
+h1{
+    margin: 10px;
+}
+
+ul{
+    font-size: 22px;
+    margin: 40px;
+}
+
+h3{
+    font-size: 21px;
+}
+
+h3{
+    font-size: 21px;
+}
+
+h5{
+    font-size: 21px;
+}
+
+h6{
+    font-size: 21px;
+    margin: 40px;
+}
+
+p2{
+    font-size: 21px;
+}
+
+p3{
+    font-size:21px
+}
+
+iframe{
+    margin: 250px;
+}
+
+.categoria-videos {
+    display: flex;
+}
